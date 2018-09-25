@@ -1,0 +1,29 @@
+{
+  "name": "@ezsfc/miles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "miles.json",
+    "*.md"
+  ],
+  "scripts": {
+    "generate": "miles-bin > miles.json"
+  },
+  "devDependencies": {
+    "@ezsfc/miles-bin": "^0.1.0"
+  },
+  "author": {
+    "name": "Pine Mizune",
+    "email": "pinemz@gmail.com",
+    "url": "https://github.com/pine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezsfc/miles"
+  },
+  "bugs": {
+    "url": "https://github.com/ezsfc/miles/issues"
+  },
+  "homepage": "https://github.com/ezsfc/miles",
+  "license": "MIT"
+}

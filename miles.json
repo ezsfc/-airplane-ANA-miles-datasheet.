@@ -1,0 +1,2466 @@
+[
+  {
+    "origin": "HND",
+    "destination": "CTS",
+    "miles": [
+      510,
+      382,
+      357,
+      255,
+      153
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "WKJ",
+    "miles": [
+      679,
+      509,
+      475,
+      339,
+      203
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "MMB",
+    "miles": [
+      609,
+      456,
+      426,
+      304,
+      182
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "AKJ",
+    "miles": [
+      576,
+      432,
+      403,
+      288,
+      172
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "SHB",
+    "miles": [
+      605,
+      453,
+      423,
+      302,
+      181
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "MBE",
+    "miles": [
+      623,
+      467,
+      436,
+      311,
+      186
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KUH",
+    "miles": [
+      555,
+      416,
+      388,
+      277,
+      166
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "OBO",
+    "miles": [
+      526,
+      394,
+      368,
+      263,
+      157
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "HKD",
+    "miles": [
+      424,
+      318,
+      296,
+      212,
+      127
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "AXT",
+    "miles": [
+      279,
+      209,
+      195,
+      139,
+      83
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "ONJ",
+    "miles": [
+      314,
+      235,
+      219,
+      157,
+      94
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "SYO",
+    "miles": [
+      218,
+      163,
+      152,
+      109,
+      65
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "SDJ",
+    "miles": [
+      177,
+      132,
+      123,
+      88,
+      53
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KIJ",
+    "miles": [
+      167,
+      125,
+      116,
+      83,
+      50
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "OIM",
+    "miles": [
+      74,
+      55,
+      51,
+      37,
+      22
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "HAC",
+    "miles": [
+      177,
+      132,
+      123,
+      88,
+      53
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "TOY",
+    "miles": [
+      176,
+      132,
+      123,
+      88,
+      52
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KMQ",
+    "miles": [
+      211,
+      158,
+      147,
+      105,
+      63
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "NTQ",
+    "miles": [
+      207,
+      155,
+      144,
+      103,
+      62
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "NGO",
+    "miles": [
+      193,
+      144,
+      135,
+      96,
+      57
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "ITM",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KIX",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "UKB",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "OKJ",
+    "miles": [
+      356,
+      267,
+      249,
+      178,
+      106
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "HIJ",
+    "miles": [
+      414,
+      310,
+      289,
+      207,
+      124
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "IWK",
+    "miles": [
+      457,
+      342,
+      319,
+      228,
+      137
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "UBJ",
+    "miles": [
+      510,
+      382,
+      357,
+      255,
+      153
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "TTJ",
+    "miles": [
+      328,
+      246,
+      229,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "YGJ",
+    "miles": [
+      384,
+      288,
+      268,
+      192,
+      115
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "IWJ",
+    "miles": [
+      474,
+      355,
+      331,
+      237,
+      142
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "TAK",
+    "miles": [
+      354,
+      265,
+      247,
+      177,
+      106
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "TKS",
+    "miles": [
+      329,
+      246,
+      230,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "MYJ",
+    "miles": [
+      438,
+      328,
+      306,
+      219,
+      131
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KCZ",
+    "miles": [
+      393,
+      294,
+      275,
+      196,
+      117
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KKJ",
+    "miles": [
+      534,
+      400,
+      373,
+      267,
+      160
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "FUK",
+    "miles": [
+      567,
+      425,
+      396,
+      283,
+      170
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "HSG",
+    "miles": [
+      584,
+      438,
+      408,
+      292,
+      175
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "OIT",
+    "miles": [
+      499,
+      374,
+      349,
+      249,
+      149
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KMJ",
+    "miles": [
+      568,
+      426,
+      397,
+      284,
+      170
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "NGS",
+    "miles": [
+      610,
+      457,
+      427,
+      305,
+      183
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KMI",
+    "miles": [
+      561,
+      420,
+      392,
+      280,
+      168
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "KOJ",
+    "miles": [
+      601,
+      450,
+      420,
+      300,
+      180
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "OKA",
+    "miles": [
+      984,
+      738,
+      688,
+      492,
+      295
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "ISG",
+    "miles": [
+      1224,
+      918,
+      856,
+      612,
+      367
+    ]
+  },
+  {
+    "origin": "HND",
+    "destination": "MMY",
+    "miles": [
+      1158,
+      868,
+      810,
+      579,
+      347
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "CTS",
+    "miles": [
+      510,
+      382,
+      357,
+      255,
+      153
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "WKJ",
+    "miles": [
+      679,
+      509,
+      475,
+      339,
+      203
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "MMB",
+    "miles": [
+      609,
+      456,
+      426,
+      304,
+      182
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "AKJ",
+    "miles": [
+      576,
+      432,
+      403,
+      288,
+      172
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "SHB",
+    "miles": [
+      605,
+      453,
+      423,
+      302,
+      181
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "MBE",
+    "miles": [
+      623,
+      467,
+      436,
+      311,
+      186
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KUH",
+    "miles": [
+      555,
+      416,
+      388,
+      277,
+      166
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "OBO",
+    "miles": [
+      526,
+      394,
+      368,
+      263,
+      157
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "HKD",
+    "miles": [
+      424,
+      318,
+      296,
+      212,
+      127
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "AXT",
+    "miles": [
+      279,
+      209,
+      195,
+      139,
+      83
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "ONJ",
+    "miles": [
+      314,
+      235,
+      219,
+      157,
+      94
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "SYO",
+    "miles": [
+      218,
+      163,
+      152,
+      109,
+      65
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "SDJ",
+    "miles": [
+      177,
+      132,
+      123,
+      88,
+      53
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KIJ",
+    "miles": [
+      167,
+      125,
+      116,
+      83,
+      50
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "OIM",
+    "miles": [
+      74,
+      55,
+      51,
+      37,
+      22
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "HAC",
+    "miles": [
+      177,
+      132,
+      123,
+      88,
+      53
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "TOY",
+    "miles": [
+      176,
+      132,
+      123,
+      88,
+      52
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KMQ",
+    "miles": [
+      211,
+      158,
+      147,
+      105,
+      63
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "NTQ",
+    "miles": [
+      207,
+      155,
+      144,
+      103,
+      62
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "NGO",
+    "miles": [
+      193,
+      144,
+      135,
+      96,
+      57
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "ITM",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KIX",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "UKB",
+    "miles": [
+      280,
+      210,
+      196,
+      140,
+      84
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "OKJ",
+    "miles": [
+      356,
+      267,
+      249,
+      178,
+      106
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "HIJ",
+    "miles": [
+      414,
+      310,
+      289,
+      207,
+      124
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "IWK",
+    "miles": [
+      457,
+      342,
+      319,
+      228,
+      137
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "UBJ",
+    "miles": [
+      510,
+      382,
+      357,
+      255,
+      153
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "TTJ",
+    "miles": [
+      328,
+      246,
+      229,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "YGJ",
+    "miles": [
+      384,
+      288,
+      268,
+      192,
+      115
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "IWJ",
+    "miles": [
+      474,
+      355,
+      331,
+      237,
+      142
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "TAK",
+    "miles": [
+      354,
+      265,
+      247,
+      177,
+      106
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "TKS",
+    "miles": [
+      329,
+      246,
+      230,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "MYJ",
+    "miles": [
+      438,
+      328,
+      306,
+      219,
+      131
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KCZ",
+    "miles": [
+      393,
+      294,
+      275,
+      196,
+      117
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KKJ",
+    "miles": [
+      534,
+      400,
+      373,
+      267,
+      160
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "FUK",
+    "miles": [
+      567,
+      425,
+      396,
+      283,
+      170
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "HSG",
+    "miles": [
+      584,
+      438,
+      408,
+      292,
+      175
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "OIT",
+    "miles": [
+      499,
+      374,
+      349,
+      249,
+      149
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KMJ",
+    "miles": [
+      568,
+      426,
+      397,
+      284,
+      170
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "NGS",
+    "miles": [
+      610,
+      457,
+      427,
+      305,
+      183
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KMI",
+    "miles": [
+      561,
+      420,
+      392,
+      280,
+      168
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "KOJ",
+    "miles": [
+      601,
+      450,
+      420,
+      300,
+      180
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "OKA",
+    "miles": [
+      984,
+      738,
+      688,
+      492,
+      295
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "ISG",
+    "miles": [
+      1224,
+      918,
+      856,
+      612,
+      367
+    ]
+  },
+  {
+    "origin": "NRT",
+    "destination": "MMY",
+    "miles": [
+      1158,
+      868,
+      810,
+      579,
+      347
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "CTS",
+    "miles": [
+      666,
+      499,
+      466,
+      333,
+      199
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "MMB",
+    "miles": [
+      797,
+      597,
+      557,
+      398,
+      239
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "AKJ",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KUH",
+    "miles": [
+      753,
+      564,
+      527,
+      376,
+      225
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "HKD",
+    "miles": [
+      578,
+      433,
+      404,
+      289,
+      173
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "AOJ",
+    "miles": [
+      523,
+      392,
+      366,
+      261,
+      156
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "AXT",
+    "miles": [
+      439,
+      329,
+      307,
+      219,
+      131
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "FKS",
+    "miles": [
+      339,
+      254,
+      237,
+      169,
+      101
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "SDJ",
+    "miles": [
+      396,
+      297,
+      277,
+      198,
+      118
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KIJ",
+    "miles": [
+      314,
+      235,
+      219,
+      157,
+      94
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "IWJ",
+    "miles": [
+      200,
+      150,
+      140,
+      100,
+      60
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "MYJ",
+    "miles": [
+      159,
+      119,
+      111,
+      79,
+      47
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KCZ",
+    "miles": [
+      119,
+      89,
+      83,
+      59,
+      35
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "FUK",
+    "miles": [
+      287,
+      215,
+      200,
+      143,
+      86
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "OIT",
+    "miles": [
+      219,
+      164,
+      153,
+      109,
+      65
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KMJ",
+    "miles": [
+      290,
+      217,
+      203,
+      145,
+      87
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "NGS",
+    "miles": [
+      330,
+      247,
+      231,
+      165,
+      99
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KMI",
+    "miles": [
+      292,
+      219,
+      204,
+      146,
+      87
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "KOJ",
+    "miles": [
+      329,
+      246,
+      230,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "OKA",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "ISG",
+    "miles": [
+      969,
+      726,
+      678,
+      484,
+      290
+    ]
+  },
+  {
+    "origin": "ITM",
+    "destination": "MMY",
+    "miles": [
+      906,
+      679,
+      634,
+      453,
+      271
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "CTS",
+    "miles": [
+      666,
+      499,
+      466,
+      333,
+      199
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "MMB",
+    "miles": [
+      797,
+      597,
+      557,
+      398,
+      239
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "AKJ",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KUH",
+    "miles": [
+      753,
+      564,
+      527,
+      376,
+      225
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "HKD",
+    "miles": [
+      578,
+      433,
+      404,
+      289,
+      173
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "AOJ",
+    "miles": [
+      523,
+      392,
+      366,
+      261,
+      156
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "AXT",
+    "miles": [
+      439,
+      329,
+      307,
+      219,
+      131
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "FKS",
+    "miles": [
+      339,
+      254,
+      237,
+      169,
+      101
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "SDJ",
+    "miles": [
+      396,
+      297,
+      277,
+      198,
+      118
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KIJ",
+    "miles": [
+      314,
+      235,
+      219,
+      157,
+      94
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "IWJ",
+    "miles": [
+      200,
+      150,
+      140,
+      100,
+      60
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "MYJ",
+    "miles": [
+      159,
+      119,
+      111,
+      79,
+      47
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KCZ",
+    "miles": [
+      119,
+      89,
+      83,
+      59,
+      35
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "FUK",
+    "miles": [
+      287,
+      215,
+      200,
+      143,
+      86
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "OIT",
+    "miles": [
+      219,
+      164,
+      153,
+      109,
+      65
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KMJ",
+    "miles": [
+      290,
+      217,
+      203,
+      145,
+      87
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "NGS",
+    "miles": [
+      330,
+      247,
+      231,
+      165,
+      99
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KMI",
+    "miles": [
+      292,
+      219,
+      204,
+      146,
+      87
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "KOJ",
+    "miles": [
+      329,
+      246,
+      230,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "OKA",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "ISG",
+    "miles": [
+      969,
+      726,
+      678,
+      484,
+      290
+    ]
+  },
+  {
+    "origin": "KIX",
+    "destination": "MMY",
+    "miles": [
+      906,
+      679,
+      634,
+      453,
+      271
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "CTS",
+    "miles": [
+      666,
+      499,
+      466,
+      333,
+      199
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "MMB",
+    "miles": [
+      797,
+      597,
+      557,
+      398,
+      239
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "AKJ",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KUH",
+    "miles": [
+      753,
+      564,
+      527,
+      376,
+      225
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "HKD",
+    "miles": [
+      578,
+      433,
+      404,
+      289,
+      173
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "AOJ",
+    "miles": [
+      523,
+      392,
+      366,
+      261,
+      156
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "AXT",
+    "miles": [
+      439,
+      329,
+      307,
+      219,
+      131
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "FKS",
+    "miles": [
+      339,
+      254,
+      237,
+      169,
+      101
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "SDJ",
+    "miles": [
+      396,
+      297,
+      277,
+      198,
+      118
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KIJ",
+    "miles": [
+      314,
+      235,
+      219,
+      157,
+      94
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "IWJ",
+    "miles": [
+      200,
+      150,
+      140,
+      100,
+      60
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "MYJ",
+    "miles": [
+      159,
+      119,
+      111,
+      79,
+      47
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KCZ",
+    "miles": [
+      119,
+      89,
+      83,
+      59,
+      35
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "FUK",
+    "miles": [
+      287,
+      215,
+      200,
+      143,
+      86
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "OIT",
+    "miles": [
+      219,
+      164,
+      153,
+      109,
+      65
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KMJ",
+    "miles": [
+      290,
+      217,
+      203,
+      145,
+      87
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "NGS",
+    "miles": [
+      330,
+      247,
+      231,
+      165,
+      99
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KMI",
+    "miles": [
+      292,
+      219,
+      204,
+      146,
+      87
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "KOJ",
+    "miles": [
+      329,
+      246,
+      230,
+      164,
+      98
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "OKA",
+    "miles": [
+      739,
+      554,
+      517,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "ISG",
+    "miles": [
+      969,
+      726,
+      678,
+      484,
+      290
+    ]
+  },
+  {
+    "origin": "UKB",
+    "destination": "MMY",
+    "miles": [
+      906,
+      679,
+      634,
+      453,
+      271
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "CTS",
+    "miles": [
+      614,
+      460,
+      429,
+      307,
+      184
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "MMB",
+    "miles": [
+      738,
+      553,
+      516,
+      369,
+      221
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "AKJ",
+    "miles": [
+      686,
+      514,
+      480,
+      343,
+      205
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "HKD",
+    "miles": [
+      525,
+      393,
+      367,
+      262,
+      157
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "AXT",
+    "miles": [
+      380,
+      285,
+      266,
+      190,
+      114
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "SDJ",
+    "miles": [
+      322,
+      241,
+      225,
+      161,
+      96
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "KIJ",
+    "miles": [
+      249,
+      186,
+      174,
+      124,
+      74
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "MYJ",
+    "miles": [
+      246,
+      184,
+      172,
+      123,
+      73
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "FUK",
+    "miles": [
+      374,
+      280,
+      261,
+      187,
+      112
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "OIT",
+    "miles": [
+      306,
+      229,
+      214,
+      153,
+      91
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "KMJ",
+    "miles": [
+      375,
+      281,
+      262,
+      187,
+      112
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "NGS",
+    "miles": [
+      417,
+      312,
+      291,
+      208,
+      125
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "KMI",
+    "miles": [
+      372,
+      279,
+      260,
+      186,
+      111
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "KOJ",
+    "miles": [
+      411,
+      308,
+      287,
+      205,
+      123
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "OKA",
+    "miles": [
+      809,
+      606,
+      566,
+      404,
+      242
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "ISG",
+    "miles": [
+      1044,
+      783,
+      730,
+      522,
+      313
+    ]
+  },
+  {
+    "origin": "NGO",
+    "destination": "MMY",
+    "miles": [
+      979,
+      734,
+      685,
+      489,
+      293
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "WKJ",
+    "miles": [
+      171,
+      128,
+      119,
+      85,
+      51
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "RIS",
+    "miles": [
+      159,
+      119,
+      111,
+      79,
+      47
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "MBE",
+    "miles": [
+      133,
+      99,
+      93,
+      66,
+      39
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "MMB",
+    "miles": [
+      148,
+      111,
+      103,
+      74,
+      44
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "SHB",
+    "miles": [
+      178,
+      133,
+      124,
+      89,
+      53
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "KUH",
+    "miles": [
+      136,
+      102,
+      95,
+      68,
+      40
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "HKD",
+    "miles": [
+      90,
+      67,
+      63,
+      45,
+      27
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "AOJ",
+    "miles": [
+      153,
+      114,
+      107,
+      76,
+      45
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "AXT",
+    "miles": [
+      238,
+      178,
+      166,
+      119,
+      71
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "FKS",
+    "miles": [
+      400,
+      300,
+      280,
+      200,
+      120
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "SDJ",
+    "miles": [
+      335,
+      251,
+      234,
+      167,
+      100
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "FSZ",
+    "miles": [
+      592,
+      444,
+      414,
+      296,
+      177
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "KIJ",
+    "miles": [
+      369,
+      276,
+      258,
+      184,
+      110
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "TOY",
+    "miles": [
+      493,
+      369,
+      345,
+      246,
+      147
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "KMQ",
+    "miles": [
+      529,
+      396,
+      370,
+      264,
+      158
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "OKJ",
+    "miles": [
+      708,
+      531,
+      495,
+      354,
+      212
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "HIJ",
+    "miles": [
+      749,
+      561,
+      524,
+      374,
+      224
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "MYJ",
+    "miles": [
+      791,
+      593,
+      553,
+      395,
+      237
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "FUK",
+    "miles": [
+      882,
+      661,
+      617,
+      441,
+      264
+    ]
+  },
+  {
+    "origin": "CTS",
+    "destination": "OKA",
+    "miles": [
+      1397,
+      1047,
+      977,
+      698,
+      419
+    ]
+  },
+  {
+    "origin": "SDJ",
+    "destination": "KMQ",
+    "miles": [
+      276,
+      207,
+      193,
+      138,
+      82
+    ]
+  },
+  {
+    "origin": "SDJ",
+    "destination": "HIJ",
+    "miles": [
+      513,
+      384,
+      359,
+      256,
+      153
+    ]
+  },
+  {
+    "origin": "SDJ",
+    "destination": "FUK",
+    "miles": [
+      665,
+      498,
+      465,
+      332,
+      199
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "KIJ",
+    "miles": [
+      572,
+      429,
+      400,
+      286,
+      171
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "KMQ",
+    "miles": [
+      390,
+      292,
+      273,
+      195,
+      117
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "TSJ",
+    "miles": [
+      81,
+      60,
+      56,
+      40,
+      24
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "FUJ",
+    "miles": [
+      113,
+      84,
+      79,
+      56,
+      33
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "KMI",
+    "miles": [
+      131,
+      98,
+      91,
+      65,
+      39
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "OKA",
+    "miles": [
+      537,
+      402,
+      375,
+      268,
+      161
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "MMY",
+    "miles": [
+      683,
+      512,
+      478,
+      341,
+      204
+    ]
+  },
+  {
+    "origin": "FUK",
+    "destination": "ISG",
+    "miles": [
+      737,
+      522,
+      515,
+      368,
+      221
+    ]
+  },
+  {
+    "origin": "NGS",
+    "destination": "IKI",
+    "miles": [
+      60,
+      45,
+      42,
+      30,
+      18
+    ]
+  },
+  {
+    "origin": "NGS",
+    "destination": "FUJ",
+    "miles": [
+      67,
+      50,
+      46,
+      33,
+      20
+    ]
+  },
+  {
+    "origin": "NGS",
+    "destination": "TSJ",
+    "miles": [
+      98,
+      73,
+      68,
+      49,
+      29
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "SDJ",
+    "miles": [
+      1130,
+      847,
+      791,
+      565,
+      339
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "FSZ",
+    "miles": [
+      863,
+      647,
+      604,
+      431,
+      258
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "KIJ",
+    "miles": [
+      1052,
+      789,
+      736,
+      526,
+      315
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "HIJ",
+    "miles": [
+      650,
+      487,
+      455,
+      325,
+      195
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "IWK",
+    "miles": [
+      614,
+      460,
+      429,
+      307,
+      184
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "MYJ",
+    "miles": [
+      607,
+      455,
+      424,
+      303,
+      182
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "TAK",
+    "miles": [
+      677,
+      507,
+      473,
+      338,
+      203
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "KKJ",
+    "miles": [
+      563,
+      422,
+      394,
+      281,
+      168
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "KMJ",
+    "miles": [
+      494,
+      370,
+      345,
+      247,
+      148
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "NGS",
+    "miles": [
+      484,
+      363,
+      338,
+      242,
+      145
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "KMI",
+    "miles": [
+      455,
+      341,
+      318,
+      227,
+      136
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "KOJ",
+    "miles": [
+      429,
+      321,
+      300,
+      214,
+      128
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "MMY",
+    "miles": [
+      177,
+      132,
+      123,
+      88,
+      53
+    ]
+  },
+  {
+    "origin": "OKA",
+    "destination": "ISG",
+    "miles": [
+      247,
+      185,
+      172,
+      123,
+      74
+    ]
+  },
+  {
+    "origin": "MMY",
+    "destination": "ISG",
+    "miles": [
+      72,
+      54,
+      50,
+      36,
+      21
+    ]
+  },
+  {
+    "origin": "MMY",
+    "destination": "NGO",
+    "miles": [
+      979,
+      734,
+      685,
+      489,
+      293
+    ]
+  },
+  {
+    "origin": "MMY",
+    "destination": "FUK",
+    "miles": [
+      683,
+      512,
+      478,
+      341,
+      204
+    ]
+  }
+]
